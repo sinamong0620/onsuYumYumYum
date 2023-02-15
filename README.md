@@ -61,3 +61,7 @@
 ## License
 
 **OnsuYumYumYum**는 [MIT License](https://opensource.org/licenses/MIT)를 적용하고 있습니다.
+
+## Fuck you
+
+만만한건 readme.md !!
