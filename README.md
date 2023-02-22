@@ -62,4 +62,4 @@
 
 **OnsuYumYumYum**는 [MIT License](https://opensource.org/licenses/MIT)를 적용하고 있습니다.
 
-### 지우 test 2 test test test
+### 흥 신아가 차지할거지롱
